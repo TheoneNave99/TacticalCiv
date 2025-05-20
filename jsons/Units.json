@@ -38,8 +38,8 @@
 	},
 	{
 		"name": "Sniper",
-		"unitType": "TacticalCiv",
-		"uniqueTo": "NativeRaiders",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "TacticalCiv",
 		"range": 4,
 		"movement": 3,
 		"strength": 25,
