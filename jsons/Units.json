@@ -6,7 +6,7 @@
 		"movement": 3,
 		"cost": 300,
 		"uniques": [
-            "[+20]% Strength bonus for [Military] units within [5] tiles", "[+5] Sight", "Can see over obstacles",
+            "[+10]% Strength bonus for [Military] units within [8] tiles", "[+8] Sight", "Can see over obstacles",
             "Can instantly construct a [Citadel] improvement <[2] times> <after which this unit is consumed>",
             "Uncapturable"],
 		"promotions": ["Ignore terrain cost"],
