@@ -13,4 +13,32 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "New [Military] units start with [30] XP [in this city]"]
 	},
+	{
+		"name": "City Tunnels",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "The Warzone",
+		"faith": 1,
+		"culture": 1,
+		"cityStrength": 10,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "The Royal Tunnels",
+		"replaces": "Palace",
+		"uniqueTo": "The Warzone",
+		"isNationalWonder": true,
+		"production": 4,
+		"science": 1,
+		"gold": 2,
+		"culture": 2,
+		"faith": 1,
+		"cityStrength": 10,
+		"cityHealth": 100,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
 ]
