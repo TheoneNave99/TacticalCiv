@@ -50,8 +50,8 @@
         "uniqueName": "Scourge of the Invaders",
         "uniques": [
 		"[-75]% maintenance costs <for [Gunpowder] units>", "[-75]% maintenance costs <for [Sword] units>",
-            	"[+25]% Production when constructing [Land] units [in all cities]", "[+25]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-            	"\"Borrows\" city names from other civilizations in the game", "Rebel units may spawn <in all cities>"
+            	"[+33]% Production when constructing [Land] units [in all cities]", "[+25]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+            	"\"Borrows\" city names from other civilizations in the game", "Rebel units may spawn <in [All] cities> <when at peace>"
         ],
         "cities": ["Attila's Court"],
         "spyNames": [
