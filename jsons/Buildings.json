@@ -11,6 +11,6 @@
 		"culture": 1,
 		"cityStrength": 10,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "New [Military] units start with [45] XP [in this city]"]
+		"uniques": ["Indicates the capital city", "New [Military] units start with [30] XP [in this city]"]
 	},
 ]
