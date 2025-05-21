@@ -51,7 +51,7 @@
         "uniques": [
 		"[-75]% maintenance costs <for [Gunpowder] units>", "[-75]% maintenance costs <for [Sword] units>",
             	"[+33]% Production when constructing [Land] units [in all cities]", "[+25]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-            	"\"Borrows\" city names from other civilizations in the game", "Rebel units may spawn <in [All] cities> <when at peace>"
+            	"\"Borrows\" city names from other civilizations in the game", "Rebel units may spawn <in [All] cities>"
         ],
         "cities": ["Attila's Court"],
         "spyNames": [
