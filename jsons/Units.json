@@ -74,4 +74,44 @@
 		"attackSound": "shot"
 		
 	},
+	{
+		"name": "Allied Brute",
+		"unitType": "Sword",
+		"uniqueTo": "The Warzone",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 15,
+		"promotions": ["Ignore terrain cost"],
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Axe Thrower",
+		"unitType": "Archery",
+		"uniqueTo": "The Warzone",
+		"range": 1,
+		"movement": 3,
+		"strength": 4,
+		"rangedStrength": 8,
+		"cost": 30,
+		"promotions": ["Ignore terrain cost"],
+		"uniques": ["Can move after attacking"]
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Peasant Conscript",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "The Warzone",
+		"movement": 2,
+		"strength": 20,
+		"cost": 75,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 ]
