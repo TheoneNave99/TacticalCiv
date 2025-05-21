@@ -7,27 +7,27 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Genghis Khan",
 
-		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
-		"startIntroPart2": "Great Nebuchadnezzar, Babylon's glory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
+		"declaringWar": "I'm afraid its come to this! Dont worry I'll make sure this one is done by the books.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "Are you real or a hyper realistic fourth dimensional being im literaly incable of comprehending?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "It appears that you have a specific something that may or may not be of use to me and my people so I offer you the opportunity of a lifetime – to make this deal with me!",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Tactical Mission Review",
 		"uniques": ["All newly-trained [Military] units [in all cities] receive the [Mission Review] promotion"]
-		"cities": ["HQ","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+		"cities": ["HQ","Secondary HQ","Tertiary HQ","FakeOut HQ","Secondary FakeOut HQ","Tertiary FakeOut HQ","Opis","Magnum Opis","Tertiary Opis","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+        "spyNames": ["Rim-Sin I", "Rim-Sin II", "Tertiary Rim-Sin", "Smerdis","Sidrems", "Semiramis", "SemiConferenceFinalsramis", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
 ]
